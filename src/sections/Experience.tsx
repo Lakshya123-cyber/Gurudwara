@@ -86,6 +86,7 @@ function Experience() {
               width={350}
               height={200}
               alt="tabla"
+              className="expImage"
             />
             <ul className="exp-details-list">
               {expereinces[selected].shortDescription.map(

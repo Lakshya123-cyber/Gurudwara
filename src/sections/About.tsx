@@ -47,14 +47,10 @@ function About() {
             Here are a few instruments I&apos;ve been playing recently:
           </p>
           <ul className="about-grid-info-list">
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-            <li className="about-grid-info-list-item">Tabla</li>
+            <li className="about-grid-info-list-item">Rabab</li>
+            <li className="about-grid-info-list-item">Dilruba</li>
+            <li className="about-grid-info-list-item">Taus</li>
+            <li className="about-grid-info-list-item">Harmonium</li>
             <li className="about-grid-info-list-item">Tabla</li>
           </ul>
         </div>

@@ -1,12 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import {
-  FiGithub,
-  FiInstagram,
-  FiYoutube,
-  FiLinkedin,
-  FiTwitter,
-} from 'react-icons/fi';
+import { FiInstagram, FiYoutube, FiFacebook } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 
 function SocialIcons() {
@@ -14,17 +8,17 @@ function SocialIcons() {
     {
       name: 'Youtube',
       icon: <FiYoutube />,
-      link: 'https://www.youtube.com',
+      link: 'https://youtube.com/@mrgurminder123?si=GDHCtBfKvGidTclG',
     },
     {
       name: 'Instagram',
       icon: <FiInstagram />,
-      link: 'https://instagram.com',
+      link: 'https://www.instagram.com/gurminders81',
     },
     {
-      name: 'Twitter',
-      icon: <FiTwitter />,
-      link: 'https://twitter.com',
+      name: 'Facebook',
+      icon: <FiFacebook />,
+      link: 'https://www.facebook.com/profile.php?id=100063043641442&mibextid=LQQJ4d',
     },
   ];
   return (

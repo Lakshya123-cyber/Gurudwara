@@ -15,27 +15,45 @@ function Experience() {
 
   const expereinces = [
     {
-      name: 'Tabla',
-      role: 'Tabla',
-      image: '/tabla.jpg',
-      shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
-      ],
-    },
-    {
-      name: 'Sarangi',
-      role: 'Sarangi',
-      image: '/sarangi.jpg',
-      shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
-      ],
-    },
-    {
       name: 'Rabab',
       role: 'Rabab',
-      image: '/rabab.jpg',
+      image: '/rababb.jpg',
+      shortDescription: [
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+      ],
+    },
+    {
+      name: 'Dilruba',
+      role: 'Dilruba',
+      image: '/dilruba.jpg',
+      shortDescription: [
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+      ],
+    },
+    {
+      name: 'Taus',
+      role: 'Taus',
+      image: '/taus.jpg',
+      shortDescription: [
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+      ],
+    },
+    {
+      name: 'Vocals',
+      role: 'Vocals',
+      image: '/vocals.jpg',
+      shortDescription: [
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+      ],
+    },
+    {
+      name: 'Harmonium',
+      role: 'Harmonium',
+      image: '/harmonium.jpg',
       shortDescription: [
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',

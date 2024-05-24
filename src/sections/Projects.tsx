@@ -7,19 +7,19 @@ import { motion } from 'framer-motion';
 function Projects() {
   const projectsData = [
     {
-      image: '/tabla.jpg',
+      image: '/dilruba.jpg',
       projectName: 'Event 1',
       projectDescription:
         "The tabla is a classical Indian percussion instrument, widely used in traditional, classical, popular, and folk music. It consists of two drums of contrasting sizes and timbres: the smaller, treble drum known as the 'dayan' (right hand drum) and the larger, bass drum known as the 'bayan' (left hand drum).",
     },
     {
-      image: '/sarangi.jpg',
+      image: '/dilruba.jpg',
       projectName: 'Event 2',
       projectDescription:
         "The sarangi is a captivating and ancient string instrument that holds a revered position in traditional Indian music. Often referred to as the 'voice of a hundred colors', the sarangi's rich, soulful sound evokes a wide range of emotions and captivates listeners with its haunting melodies.",
     },
     {
-      image: '/rabab.jpg',
+      image: '/dilruba.jpg',
       projectName: 'Event 3',
       projectDescription:
         'The rabab is a captivating and ancient musical instrument with roots that trace back thousands of years, originating in regions across Central, South, and West Asia. Known for its distinctively resonant sound and unique construction, the rabab holds a special place in the rich tapestry of musical traditions in the Middle East, Central Asia, and the Indian subcontinent.',
@@ -64,7 +64,7 @@ function Projects() {
               <div className="project-info">
                 <h3 className="project-info-title">{projectName}</h3>
                 <div className="project-info-description">
-                  <p>{projectDescription}</p>
+                  <p style={{ color: '#ddd' }}>{projectDescription}</p>
                 </div>
                 <br />
                 <br />

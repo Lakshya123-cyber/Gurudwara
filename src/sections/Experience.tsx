@@ -19,8 +19,8 @@ function Experience() {
       role: 'Rabab',
       image: '/rababb.jpg',
       shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+        'The rabab is a traditional string instrument with deep historical roots, originating in the Middle East and Central Asia.',
+        'Generally, it has a body made of wood, often with a membrane stretched over the soundbox, and typically features two or more strings.',
       ],
     },
     {
@@ -28,8 +28,8 @@ function Experience() {
       role: 'Dilruba',
       image: '/dilruba.jpg',
       shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+        'The dilruba is a traditional string instrument used primarily in the classical music of North India.',
+        'The dilruba features a long neck with frets, similar to the sitar, and a resonating chamber covered with a skin membrane, akin to the sarangi.',
       ],
     },
     {
@@ -37,17 +37,8 @@ function Experience() {
       role: 'Taus',
       image: '/taus.jpg',
       shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
-      ],
-    },
-    {
-      name: 'Vocals',
-      role: 'Vocals',
-      image: '/vocals.jpg',
-      shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+        'The taus, also known as the "Mayuri veena" due to its peacock-like shape, is a traditional bowed string instrument originating from the Punjab region of India.',
+        'The taus is visually striking with its body carved in the shape of a peacock, complete with a decorative neck and head.',
       ],
     },
     {
@@ -55,8 +46,16 @@ function Experience() {
       role: 'Harmonium',
       image: '/harmonium.jpg',
       shortDescription: [
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores.',
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem maiores. Lorem ipsum dolor sit amet.',
+        'The harmonium is a reed keyboard instrument that originated in Europe in the early 19th century and was later adapted and popularized in India.',
+        "The harmonium's ability to sustain notes and produce a continuous sound makes it ideal for supporting singers in genres such as khyal, bhajan, ghazal, and qawwali.",
+      ],
+    },
+    {
+      name: 'Vocals',
+      role: 'Vocals',
+      image: '/vocals.jpg',
+      shortDescription: [
+        'Vocal performance encompasses a wide range of techniques and styles, each tailored to different musical genres and traditions.',
       ],
     },
   ];

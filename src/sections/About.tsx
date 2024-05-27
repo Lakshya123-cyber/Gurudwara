@@ -28,37 +28,41 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Praesentium, eius. Quaerat odio saepe, autem ipsam ipsum rem facere
-            consequuntur deleniti beatae perspiciatis soluta dolor debitis ea
+            Hello, I am Gurminder Singh. I have been learning music specially
+            Gurmat Sangeet (Sikh music) since I was 9 years old.
           </p>
           <p className="about-grid-info-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          </p>
-
-          <p className="about-grid-info-text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+            Currently I am in Singapore to teach Sikh Music and also conducting
+            online classes for Vocals, harmonium, Tabla, Rabab, Taus, Dilruba.
           </p>
           <p className="about-grid-info-text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-            beatae officia assumenda eum nam labore harum ullam?
+            I have students from Countries like America, Australia, Canada, New
+            Zealand.
           </p>
           <p className="about-grid-info-text">
-            Here are a few instruments I&apos;ve been playing recently:
+            You can reach to me through WhatsApp:
+            <br />
+            <Link
+              style={{ textDecoration: 'none', color: '#FFFF00' }}
+              href="https://wa.me/+6588492180"
+              target="_blank"
+            >
+              +65 88492180{' '}
+            </Link>
+            <Link
+              style={{ textDecoration: 'none', color: '#FFFF00' }}
+              href="https://wa.me/+6591970178"
+              target="_blank"
+            >
+              +65 91970178
+            </Link>
           </p>
-          <ul className="about-grid-info-list">
-            <li className="about-grid-info-list-item">Rabab</li>
-            <li className="about-grid-info-list-item">Dilruba</li>
-            <li className="about-grid-info-list-item">Taus</li>
-            <li className="about-grid-info-list-item">Harmonium</li>
-            <li className="about-grid-info-list-item">Tabla</li>
-          </ul>
         </div>
         <div className="about-grid-photo">
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
-            <Image src="/guruu.jpg" alt="profile" fill />
+            <Image src="/about.jpg" alt="profile" fill />
           </div>
         </div>
       </div>
